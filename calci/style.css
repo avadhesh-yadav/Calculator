@@ -3,13 +3,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f50101;
+    background-color: #d3cccc;
     
     height: 450px;
     width: 400px;
     margin-left: 200px;
     border-radius: 9px;
-}
+} 
 
 .innerDiv {
     background-color: #BEBEBE;

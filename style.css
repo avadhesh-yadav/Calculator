@@ -1,9 +1,10 @@
-
+/* made changes using git commands  */
 .outerDiv {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #424242;
+    background-color: #979191;
+    
     height: 450px;
     width: 400px;
     margin-left: 200px;
@@ -56,10 +57,11 @@
 }
 
 .innerDiv #clearbtn{
-    background-color: #B00000;
+    background-color:red;
     color: white;
 }
 .innerDiv .errorColor{
     color: #8b0a0a;
 }
+
 
